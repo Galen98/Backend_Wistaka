@@ -1,0 +1,27 @@
+[
+    {
+        "id":"1",
+        "namakategori":"Wisata Alam",
+        "deskripsi":"Nikmati keindahan alam yang ada di Jogja dan nikmati aktivitas yang tersedia disana",
+        "image":"https://images.unsplash.com/photo-1637993923085-dbf15813cd6c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"
+    },
+    {
+        "id":"2",
+        "namakategori":"Wisata Kuliner",
+        "deskripsi":"Nikmati kuliner khas favorit Jogja yang akan membuat lidah anda ketagihan dan penasaran",
+        "image":"https://ipief.umy.ac.id/wp-content/uploads/2020/12/2-2-AngkringanKR-By-angkringanjabrik.jpg"
+    },
+    {
+        "id":"3",
+        "namakategori":"Wisata Budaya Dan Edukasi",
+        "deskripsi":"Kunjungi beragam wisata budaya dan sejarah yang bisa anda pelajari",
+        "image":"https://images5.alphacoders.com/596/thumb-1920-596051.jpg"
+    },
+    {
+        "id":"4",
+        "namakategori":"Desa Wisata",
+        "deskripsi":"Terdapat beragam desa wisata yang indah dan menarik untuk dikunjungi",
+        "image":"https://images.unsplash.com/photo-1615648178124-01f7162ceac4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"
+    }
+    
+]
